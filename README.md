@@ -9,14 +9,6 @@ My name is LE VIET HUNG and I'm a data scientist with a passion for uncovering i
 - **Machine Learning:** Supervised, Unsupervised Learning, Deep Learning, LLM
 - **Marketing:** Market Research, Digital Marketing, SEO, SEM, CRM, Photoshop
 
-## 💼 Professional Experience
-
-### Marketing Specialist, [Company Name], [Dates]
-- Bullet Point 1
-- Bullet Point 2
-
-For more details, please check out my [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/).
-
 ## 🏆 Certifications
 
 - Data Science & Machine Learning Certification from MIT IDSS
