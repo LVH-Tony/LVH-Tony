@@ -70,16 +70,15 @@ Position: Fund Manager/Marketing Executive
 - **Music Production:** Reaper
 
 ## 🏆 Certifications
-- Professional Data Science and Machine Learning at Massachusetts Institute of Technology
+- Professional Data Science and Machine Learning at **MIT**
     - During the program I have finished more than 60 Case Study and Project on multiple industries, contact me for more information.
    - **Notable Projects**
       -	Netflix Movie Recommendation System: [repo](https://github.com/LVH-Tony/RecommendationSystem-movie)
             - The objective of this project is to build a recommendation system to recommend movies to users based on the ratings given to different movies by the users
       -	Brain Tumor Image Classifier: [repo](https://github.com/LVH-Tony/braintumor-identification)
             - The objective of this project is to build an image classifier that can distinguish Pituitary Tumor from "No Tumor" MRI Scan images. 
-- Bachelor of Honor in Marketing at University College of Dublin
+- Bachelor of Honor in Marketing at **University College of Dublin**
 - Diploma in Business Administration Kaplan Higher Education Academy
-- Data Science & Machine Learning Certification from MIT IDSS
 - Bachelor’s in Marketing from University College of Dublin
 - SQL for Data Science from University of California Davis
 - dbt Fundamentals from dbt labs
