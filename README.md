@@ -62,7 +62,7 @@ Position: Fund Manager/Marketing Executive
 
 ## ⭐ Skills 
 
-- **Data Science:** Python, MySQL, TensorFlow, Scikit-learn, Rust, lua, yml, Advanced Statistics, basic java, HTML, Feature Engineering
+- **Data Science:** Python, MySQL, Mojo 🔥, TensorFlow, Scikit-learn, Rust, lua, yml, Advanced Statistics, basic java, HTML, Feature Engineering
 - **Data Visualization:** Matplotlib, Seaborn, Plotly, Power BI, Tableau
 - **Machine Learning:** Supervised, Unsupervised Learning, Deep Learning, LLM, NLP, GANs
 - **Software:** ChatGPT Prompt Engineer, dbt Labs, Git, GitHub, cmd, Bash, zsh prompt, Advanced Excel, VBA, WordPress, Haravan, Photoshop, Lightroom, nvim, vs code
