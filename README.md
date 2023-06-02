@@ -1,4 +1,4 @@
-![]()
+![](cover.jpg)
 
 # Hello there! 👋
 
@@ -18,31 +18,27 @@ Position: Co-founder
 **End-to-end brand service, Remote** 2021 – Present
 -	Offering comprehensive personal and small business branding services, including photography, design, web development, social media management, e-commerce setup, marketing strategy, execution, data analytics, and brand management.
 Notable Projects:
--	Fashion Designer Store THANH CHI:
-o	https://facebook.com/thanhchi.store
-o	Improve brand image with total growth of 186% within 3 months.
-o	Made viral TikTok videos with views range above 1000.
-o	Increase number of order message by 64% and conversion rate at 40%
-o	Automate monthly EDA dashboard & reports.
--	Avaly Kids Boutique:
-o	https://www.facebook.com/Avalythoitrangtrem/
-o	https://shopavaly.com
-o	Developed the website and a fully functional CMS for the client.
-o	Set up a Sales, Storage & Fulfilment team for the client
-o	Planned and Execute the initial marketing campaign to bring the brand to public for the first time, secured the launching month sales of $10,000 with only $600 marketing fund
-o	Automate monthly EDA dashboard & reports.
--	Lusso Concept:
-o	https://lussoconcept.vn
-o	Developed the website and a fully functional CMS for the client.
-o	Special feature: a fully functional affiliate commission calculation logic.
+-	Fashion Designer Store THANH CHI: [facebook](https://facebook.com/thanhchi.store)
+    - Improve brand image with total growth of `186%` within 3 months.
+    - Made viral TikTok videos with views range above 1000.
+    - Increase number of order message by `64%` and conversion rate at `40%`
+    - Automate monthly EDA dashboard & reports.
+-	Avaly Kids Boutique: [facebook](https://www.facebook.com/Avalythoitrangtrem/), [Website](https://shopavaly.com)
+    - Developed the `website` and a `fully functional CMS` for the client.
+    -	Set up a `Sales, Storage & Fulfilment team` for the client
+    - Planned and Execute the initial marketing campaign to bring the brand to public for the first time, secured the launching month sales of `$10,000` with only `$600` marketing fund
+    - `Automate monthly EDA dashboard & reports`.
+-	Lusso Concept: [website](https://lussoconcept.vn)
+    - Developed the `website` and a `fully functional CMS` for the client.
+    - Special feature: a `fully functional affiliate commission calculation logic`.
 
 **inhabits - Smart Home service**			Discontinued due to Lockdown June 2021
 -	Offering customizable smart home solutions tailored to fit any budget. My services transform regular homes into smart homes, creating intuitive systems that seamlessly integrate into any household.
-Projects: We previously partnered with the interior design company Before & After Ltd to provide our services for their existing and future clients. In exchange, I aided them with their marketing strategy resulting in a new luxury customer market.
+Projects: We previously partnered with the interior design company Before & After Ltd to provide our services for their existing and future clients. In exchange, I aided them with their marketing strategy resulting in a new luxury customer market, improve revenue by `20%`.
 
 **L&L Group, Ho Chi Minh City, Vietnam**	2020 – 2021
 Position: Executive Associate to the CEO
--	Finding and assessing suppliers in order to procure goods and services, reduced the expected cost by 5%
+-	Finding and assessing suppliers in order to procure goods and services, `reduced the expected cost by 5%`
 -	Project, task allocation and supervising Ho Chi Minh City main branch
 -	Solving internal conflicts
 -	Represent the CEO at meetings, giving presentation and speeches.
@@ -51,7 +47,7 @@ Position: Executive Associate to the CEO
 **Huong Nga Fine Arts Co., Ltd, Ho Chi Minh City, Vietnam**	2020 – 2020
 Position: Sales & Marketing Lead
 -	Conduct market research and analyze customer behavior to build a marketing funnel.
--	Running digital marketing campaign, manage to maintain the business during Covid Lockdown, increase accessories sales by 20%
+-	Running digital marketing campaign, manage to maintain the business during Covid Lockdown, `increase accessories sales by 20%`
 -	Connect with sourcing companies to reach more buyers and maintain global relationships.
 -	Create and manage a new e-commerce platform with fully functional CMS.
 -	Despite human resource shortage, me and my colleague manage to roll out a new product catalog from A to Z, including photography and graphic designs.
@@ -75,14 +71,12 @@ Position: Fund Manager/Marketing Executive
 
 ## 🏆 Certifications
 - Professional Data Science and Machine Learning at Massachusetts Institute of Technology
-  - During the program I have finished more than 60 Case Study and Project on multiple industries, contact me for more information.
-  - **Notable Projects**
-    -	Netflix Movie Recommendation System
-      -	https://github.com/LVH-Tony/RecommendationSystem-movie 
-      -	The objective of this project is to build a recommendation system to recommend movies to users based on the ratings given to different movies by the users
-    -	Brain Tumor Image Classifier
-      - https://github.com/LVH-Tony/braintumor-identification 
-      - The objective of this project is to build an image classifier that can distinguish Pituitary Tumor from "No Tumor" MRI Scan images. 
+    - During the program I have finished more than 60 Case Study and Project on multiple industries, contact me for more information.
+   - **Notable Projects**
+      -	Netflix Movie Recommendation System: [repo](https://github.com/LVH-Tony/RecommendationSystem-movie)
+            - The objective of this project is to build a recommendation system to recommend movies to users based on the ratings given to different movies by the users
+      -	Brain Tumor Image Classifier: [repo](https://github.com/LVH-Tony/braintumor-identification)
+            - The objective of this project is to build an image classifier that can distinguish Pituitary Tumor from "No Tumor" MRI Scan images. 
 - Bachelor of Honor in Marketing at University College of Dublin
 - Diploma in Business Administration Kaplan Higher Education Academy
 - Data Science & Machine Learning Certification from MIT IDSS
@@ -90,13 +84,10 @@ Position: Fund Manager/Marketing Executive
 - SQL for Data Science from University of California Davis
 - dbt Fundamentals from dbt labs
 
-Feel free to contact me with any questions or if you are interested in collaboration. Looking forward to hearing from you!
-
 ## ⛪ Community Service
 
 **SOS Children’s Villages International**
 [Monthly Donor] – CODE: CG21926
-Jul 2020 - present
 
 **Baby Rescue Association – Hội cứu thai nhi**
 [Caretaker] 
@@ -106,8 +97,11 @@ Jul 2020 - present
 - Technologies
 - Artificial Intelligent
 - Custom Mechanical Keyboard
-- - Studying & Reading Books
+- Studying & Reading Books
 - Chess, Go, Board Games
 - Basketball – 2 times a week
 - Lead guitarist for Sea of Blood
 - Photography
+
+
+Feel free to contact me with any questions or if you are interested in collaboration. Looking forward to hearing from you!
