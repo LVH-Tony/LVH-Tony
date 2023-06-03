@@ -23,7 +23,7 @@ Data Scientist</a> from Vietnam 🇻🇳 and I am coming to Canada 🇨🇦 Soon
 
 <!-- Neural Link -->
 <a target="_blank" align="center">
-  <img align="right" top="0" height="350" width="350" alt="GIF" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif">
+  <img align="right" top="0" height="200" width="200" alt="GIF" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif">
 </a>
 
 
