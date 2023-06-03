@@ -1,26 +1,20 @@
-
 <!-- INTRODUCTION -->
-
 <h1 align="center"><b>Hi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm <a href="https://www.lvh-tony.com/" target="blank">
 Hung Le</a> </h1>
 <h3 align="center">A passionate <a href="https://lvh-tony.com">
 Data Scientist</a> from Vietnam 🇻🇳 and I am coming to Canada 🇨🇦 Soon!</h3>
 
 
-
 <!-- NEURAL NET GIF START -->
-
 <p align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt=" dash" />
     <img src="gif/mojo.gif" alt="neuralnetwork" />
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt=" dash" />
 </p>
-
 <!-- NEURAL NET GIF END-->
 
 
-<!-- LAST COMMIT -->
-
+<!-- WEBSITE LAST COMMIT -->
 <p align="center">
     <img src="https://img.shields.io/twitter/url?color=red&label=%F0%9F%9A%80%20My%20Website&style=for-the-badge&url=https%3A%2F%2Flvh-tony.com" alt="website" /><a href="https://lvh-tony.com" target="blank">
     <img src="https://img.shields.io/github/last-commit/lvh-tony/lvh-tony?style=for-the-badge" alt="commit" /></a>
@@ -34,7 +28,6 @@ Data Scientist</a> from Vietnam 🇻🇳 and I am coming to Canada 🇨🇦 Soon
 
 
 <!-- ABOUT ME - START -->
-
 - 🔭 I'm open for full-time opportunities in Data Science <a href="https://www.lvh-tony.com/_files/ugd/a9812d_3b29bfce3e664d6eb4dda898ad0d0fa3.pdf" target="blank">Resume</a>
 
 - 💼 I’m currently working on my new startup in Healthtech <a href="https://www.lvh-tony.com/post/i-am-creating-a-digital-platform-to-revolutionize-the-pharmacy-industry" target="blank">PharmApp Tech Inc.</a>
@@ -48,7 +41,6 @@ Data Scientist</a> from Vietnam 🇻🇳 and I am coming to Canada 🇨🇦 Soon
 - 💬 Ask me about **Data Science, Machine Learning & Deep Learning**
 
 - 📫 How to reach me [**tony.leviethung@gmail.com**](mailto:tony.leviethung@gmail.com)
-
 <!-- ABOUT ME - END -->
 
 <!-- QUOTE -->
