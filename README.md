@@ -1,106 +1,185 @@
-![](cover.jpg)
 
-# Hello there! 👋
+<!-- INTRODUCTION -->
 
-An analytical and results-driven with over 5 years' experience across diverse industries, currently specializing in Ecommerce and Analytics. A graduate of MIT's Data Science and Machine Learning program, I co-founded PharmApp Tech Inc. Leveraging skills in Python, SQL, ML, NLP, and LLM models, I demonstrate an excellent blend of technical expertise and business acumen. My roles have ranged from Marketing Specialist to CEO Associate, exhibiting strategic leadership and team management. I'm skilled in implementing marketing strategies and data analytics, and I'm driven to propel growth in any organization.
-
-## 📬 Get in Touch
-
-- LinkedIn: LE VIET HUNG (https://www.linkedin.com/in/viethung-le/details/certifications/)
-- Website: https://www.lvh-tony.com/
-- Email: tony.leviethung@gmail.com
-
-## 🧰 Experience & Current Project
-**PharmApp Tech Inc., Vancouver, Canada** 2023 – Present
-Position: Co-founder
--	Co-creating PharmApp Tech Inc., a VC-backed startup transforming the pharmacy industry through a digital platform addressing key challenges. Our experienced team is connecting pharmacies, hospitals, and patients across North America to improve healthcare outcomes.
-
-**End-to-end brand service, Remote** 2021 – Present
--	Offering comprehensive personal and small business branding services, including photography, design, web development, social media management, e-commerce setup, marketing strategy, execution, data analytics, and brand management.
-Notable Projects:
--	Fashion Designer Store THANH CHI: [facebook](https://facebook.com/thanhchi.store)
-    - Improve brand image with total growth of `186%` within 3 months.
-    - Made viral TikTok videos with views range above 1000.
-    - Increase number of order message by `64%` and conversion rate at `40%`
-    - Automate monthly EDA dashboard & reports.
--	Avaly Kids Boutique: [facebook](https://www.facebook.com/Avalythoitrangtrem/), [Website](https://shopavaly.com)
-    - Developed the `website` and a `fully functional CMS` for the client.
-    -	Set up a `Sales, Storage & Fulfilment team` for the client
-    - Planned and Execute the initial marketing campaign to bring the brand to public for the first time, secured the launching month sales of `$10,000` with only `$600` marketing fund
-    - `Automate monthly EDA dashboard & reports`.
--	Lusso Concept: [website](https://lussoconcept.vn)
-    - Developed the `website` and a `fully functional CMS` for the client.
-    - Special feature: a `fully functional affiliate commission calculation logic`.
-
-**inhabits - Smart Home service**			Discontinued due to Lockdown June 2021
--	Offering customizable smart home solutions tailored to fit any budget. My services transform regular homes into smart homes, creating intuitive systems that seamlessly integrate into any household.
-Projects: We previously partnered with the interior design company Before & After Ltd to provide our services for their existing and future clients. In exchange, I aided them with their marketing strategy resulting in a new luxury customer market, improve revenue by `20%`.
-
-**L&L Group, Ho Chi Minh City, Vietnam**	2020 – 2021
-Position: Executive Associate to the CEO
--	Finding and assessing suppliers in order to procure goods and services, `reduced the expected cost by 5%`
--	Project, task allocation and supervising Ho Chi Minh City main branch
--	Solving internal conflicts
--	Represent the CEO at meetings, giving presentation and speeches.
--	Managing schedules, documents and taking care of clients and partners
-
-**Huong Nga Fine Arts Co., Ltd, Ho Chi Minh City, Vietnam**	2020 – 2020
-Position: Sales & Marketing Lead
--	Conduct market research and analyze customer behavior to build a marketing funnel.
--	Running digital marketing campaign, manage to maintain the business during Covid Lockdown, `increase accessories sales by 20%`
--	Connect with sourcing companies to reach more buyers and maintain global relationships.
--	Create and manage a new e-commerce platform with fully functional CMS.
--	Despite human resource shortage, me and my colleague manage to roll out a new product catalog from A to Z, including photography and graphic designs.
--	Represent the company in working with agencies and production locations.
--	Recruit and train sales staff.
-
-**Goldsun Media Group, Ho Chi Minh City, Vietnam** 2019 – 2020
-Position: Account Executive
-
-**TechReal Capital, Ho Chi Minh City, Vietnam**	2018 – 2019
-Position: Fund Manager/Marketing Executive
-
-## ⭐ Skills 
-
-- **Data Science:** Python, MySQL, Mojo 🔥, TensorFlow, Scikit-learn, Rust, lua, yml, Advanced Statistics, basic java, HTML, Feature Engineering
-- **Data Visualization:** Matplotlib, Seaborn, Plotly, Power BI, Tableau
-- **Machine Learning:** Supervised, Unsupervised Learning, Deep Learning, LLM, NLP, GANs
-- **Software:** ChatGPT Prompt Engineer, dbt Labs, Git, GitHub, cmd, Bash, zsh prompt, Advanced Excel, VBA, WordPress, Haravan, Photoshop, Lightroom, nvim, vs code
-- **Marketing:** Market Research, Digital Marketing, SEO, SEM, CRM, Google Analytics, Meta Business, Content Writing
-- **Music Production:** Reaper
-
-## 🏆 Certifications
-- Professional Data Science and Machine Learning at **MIT**
-    - During the program I have finished more than 60 Case Study and Project on multiple industries, contact me for more information.
-   - **Notable Projects**
-      -	Netflix Movie Recommendation System: [repo](https://github.com/LVH-Tony/RecommendationSystem-movie)
-            - The objective of this project is to build a recommendation system to recommend movies to users based on the ratings given to different movies by the users
-      -	Brain Tumor Image Classifier: [repo](https://github.com/LVH-Tony/braintumor-identification)
-            - The objective of this project is to build an image classifier that can distinguish Pituitary Tumor from "No Tumor" MRI Scan images. 
-- Bachelor of Honor in Marketing at **University College of Dublin**
-- Diploma in Business Administration Kaplan Higher Education Academy
-- Bachelor’s in Marketing from University College of Dublin
-- SQL for Data Science from University of California Davis
-- dbt Fundamentals from dbt labs
-
-## ⛪ Community Service
-
-**SOS Children’s Villages International**
-[Monthly Donor] – CODE: CG21926
-
-**Baby Rescue Association – Hội cứu thai nhi**
-[Caretaker] 
-
-## 🚴 Hobbies 
-
-- Technologies
-- Artificial Intelligent
-- Custom Mechanical Keyboard
-- Studying & Reading Books
-- Chess, Go, Board Games
-- Basketball – 2 times a week
-- Lead guitarist for Sea of Blood
-- Photography
+<h1 align="center"><b>Hi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm <a href="https://www.lvh-tony.com/" target="blank">
+Hung Le</a> </h1>
+<h3 align="center">A passionate <a href="https://lvh-tony.com">
+Data Scientist</a> from Vietnam 🇻🇳 and I am coming to Canada 🇨🇦 Soon!</h3>
 
 
-Feel free to contact me with any questions or if you are interested in collaboration. Looking forward to hearing from you!
+
+<!-- NEURAL NET GIF START -->
+
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt=" dash" />
+    <img src="gif/mojo.gif" alt="neuralnetwork" />
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt=" dash" />
+</p>
+
+<!-- NEURAL NET GIF END-->
+
+
+<!-- LAST COMMIT -->
+
+<p align="center">
+    <img src="https://img.shields.io/twitter/url?color=red&label=%F0%9F%9A%80%20My%20Website&style=for-the-badge&url=https%3A%2F%2Flvh-tony.com" alt="website" /><a href="https://lvh-tony.com" target="blank">
+    <img src="https://img.shields.io/github/last-commit/lvh-tony/lvh-tony?style=for-the-badge" alt="commit" /></a>
+</p> 
+
+
+<!-- Neural Link -->
+<a target="_blank" align="center">
+  <img align="right" top="0" height="350" width="350" alt="GIF" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif">
+</a>
+
+
+<!-- ABOUT ME - START -->
+
+- 🔭 I'm open for full-time opportunities in Data Science <a href="https://www.lvh-tony.com/_files/ugd/a9812d_3b29bfce3e664d6eb4dda898ad0d0fa3.pdf" target="blank">Resume</a>
+
+- 💼 I’m currently working on my new startup in Healthtech <a href="https://www.lvh-tony.com/post/i-am-creating-a-digital-platform-to-revolutionize-the-pharmacy-industry" target="blank">PharmApp Tech Inc.</a>
+
+- 🤝 I’m available for freelancing. Free work for less demanding projects
+
+- 🌱 I’m currently learning <a href="https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops" target="blank">MLOps</a>
+
+- 📝 I regularly write blogs on [my new website](https://lvh-tony.com)
+
+- 💬 Ask me about **Data Science, Machine Learning & Deep Learning**
+
+- 📫 How to reach me [**tony.leviethung@gmail.com**](mailto:tony.leviethung@gmail.com)
+
+<!-- ABOUT ME - END -->
+
+<!-- QUOTE -->
+<p align="center"> <img src=https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_macchiato> </p>
+
+<!-- SKILLS -->
+<h2 align="center"> <img src="gif/bar.gif" width=25> Skills & Technologies:</h2>
+<h4 align="center">👨‍💻 Data Science:</h4>
+<p align="center">
+    <a>
+        <img src=https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue>
+        <img src=https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white>
+        <img src=https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white>
+        <img src=https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white>
+        <img src=https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white>
+        <img src=https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16>
+        <img src=https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white>
+        <img src=https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324>
+        <img src=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white>
+        <img src=https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white>
+        <img src=https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white>
+        <img src=https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white>
+        <img src=https://img.shields.io/badge/Amazon_AWS-343434?style=for-the-badge&logo=amazonaws&logoColor=white>
+        <img src=https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white>
+    </a>
+</p>
+<h4 align="center">📊 Data Visualization:</h4>
+<p align="center">
+  <a>
+    <img src=https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white>
+    <img src=https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white>
+    <img src=https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white>
+    <img src=https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white>
+  </a>
+</p>
+<h4 align="center">🛠️ Tools:</h4>
+<p align="center">
+    <img src=https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green>
+    <img src=https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white>
+    <img src=https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white>
+    <img src=https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white>
+    <img src=https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white>
+    <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white>
+    <img src=https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white>
+    <img src=https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white>
+    <img src=https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white>
+    <img src=https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white>
+    <img src=https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white>
+    <img src=https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white>
+    <img src=https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white>
+    <img src=https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white>
+    <img src=https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black>
+    <img src=https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white>
+    <img src=https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white>
+  </a>
+</p>
+
+</br>
+<h2 align="center"> <img src="gif/contact.gif" width=25> Get in touch with me:</h2>
+<p align="center">
+  <a href="https://facebook.com/lvh-tonyle">
+    <img src="icon/facebook.png" width=40 />
+  </a>
+  <a href="https://www.instagram.com/lvh.tonyle/">
+    <img src="icon/instagram.png" width=40 />
+  </a>
+  <a href="https://linkedin.com/in/viethung-le/">
+    <img src="icon/linkedin.png" width=40 />
+  </a>
+    <a href="https://wa.me/+84909559005">
+    <img src="icon/whatsapp.png" width=40 />
+  </a>
+  <a href="https://discord.com/channels/@me">
+    <img src="https://skillicons.dev/icons?i=discord" width=40 />
+  </a>
+  <a href="https://t.me/LVHtony">
+    <img src="icon/telegram.png" width=40 />
+  </a>
+</p>
+
+
+<!-- Divider -->
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt=" dash" />
+</p>
+
+<!-- Contribution Snake Grid -->
+
+<h2 align = "center">Oh No! The <img src="gif/python.gif" alt="Python" width=20 /> is eating my contribution!</h2>
+<p align="center">
+    <img src="gif/grid-snake.svg" alt="python-grid"/>
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt=" dash" />
+</p>
+<br/>
+
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=lvh-tony&theme=radical&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lvh-tony&theme=radical&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lvh-tony&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+<!--- trophy (start) -->
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=lvh-tony&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+<!--- trophy (start) -->
+
+
+</p>        
+<!--- stats (end) -->
+
+
+<p align="center">
+  <a href="https://buymeacoffee.com/hungle">
+    <img src="gif/donate.gif" />
+  </a>
+</p>
