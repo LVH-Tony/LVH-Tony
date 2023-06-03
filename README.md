@@ -23,7 +23,7 @@ Data Scientist</a> from Vietnam 🇻🇳 and I am coming to Canada 🇨🇦 Soon
 
 <!-- Neural Link -->
 <a target="_blank" align="center">
-  <img align="right" top="0" height="350" width="350" alt="GIF" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif">
+  <img align="right" top="0" height="200" width="240" alt="GIF" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif">
 </a>
 
 
@@ -47,8 +47,8 @@ Data Scientist</a> from Vietnam 🇻🇳 and I am coming to Canada 🇨🇦 Soon
 <p align="center"> <img src=https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_macchiato> </p>
 
 <!-- SKILLS -->
-<h2 align="center"> <img src="gif/bar.gif" width=25> Skills & Technologies:</h2>
-<h4 align="center">👨‍💻 Data Science:</h4>
+<h1 align="center"> <img src="gif/bar.gif" width=25> Skills & Technologies:</h1>
+<h3 align="center">👨‍💻 Data Science:</h3>
 <p align="center">
     <a>
         <img src=https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue>
@@ -67,7 +67,7 @@ Data Scientist</a> from Vietnam 🇻🇳 and I am coming to Canada 🇨🇦 Soon
         <img src=https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white>
     </a>
 </p>
-<h4 align="center">📊 Data Visualization:</h4>
+<h3 align="center">📊 Data Visualization:</h3>
 <p align="center">
   <a>
     <img src=https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white>
@@ -76,7 +76,7 @@ Data Scientist</a> from Vietnam 🇻🇳 and I am coming to Canada 🇨🇦 Soon
     <img src=https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white>
   </a>
 </p>
-<h4 align="center">🛠️ Tools:</h4>
+<h3 align="center">🛠️ Tools:</h3>
 <p align="center">
     <img src=https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green>
     <img src=https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white>
@@ -99,25 +99,25 @@ Data Scientist</a> from Vietnam 🇻🇳 and I am coming to Canada 🇨🇦 Soon
 </p>
 
 </br>
-<h2 align="center"> <img src="gif/contact.gif" width=25> Get in touch with me:</h2>
+<h1 align="center"> <img src="gif/contact.gif" width=25> Get in touch with me:</h1>
 <p align="center">
   <a href="https://facebook.com/lvh-tonyle">
-    <img src="icon/facebook.png" width=40 />
+    <img src="icon/facebook.png" width=75 />
   </a>
   <a href="https://www.instagram.com/lvh.tonyle/">
-    <img src="icon/instagram.png" width=40 />
+    <img src="icon/instagram.png" width=75 />
   </a>
   <a href="https://linkedin.com/in/viethung-le/">
-    <img src="icon/linkedin.png" width=40 />
+    <img src="icon/linkedin.png" width=75 />
   </a>
     <a href="https://wa.me/+84909559005">
-    <img src="icon/whatsapp.png" width=40 />
+    <img src="icon/whatsapp.png" width=75 />
   </a>
   <a href="https://discord.com/channels/@me">
-    <img src="https://skillicons.dev/icons?i=discord" width=40 />
+    <img src="https://skillicons.dev/icons?i=discord" width=75 />
   </a>
   <a href="https://t.me/LVHtony">
-    <img src="icon/telegram.png" width=40 />
+    <img src="icon/telegram.png" width=75 />
   </a>
 </p>
 
