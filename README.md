@@ -1,9 +1,9 @@
+<!-- TEST -->
 <!-- INTRODUCTION -->
 <h1 align="center"><b>Hi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm <a href="https://www.lvh-tony.com/" target="blank">
 Hung Le</a> </h1>
 <h3 align="center">A passionate <a href="https://lvh-tony.com">
 Data Scientist</a> from Vietnam 🇻🇳 and I am coming to Canada 🇨🇦 Soon!</h3>
-
 
 <!-- NEURAL NET GIF START -->
 <p align="center">
@@ -13,12 +13,10 @@ Data Scientist</a> from Vietnam 🇻🇳 and I am coming to Canada 🇨🇦 Soon
 </p>
 <!-- NEURAL NET GIF END-->
 
-
 <!-- WEBSITE LAST COMMIT -->
 <p align="center">
-    <img src="https://img.shields.io/twitter/url?color=red&label=%F0%9F%9A%80%20My%20Website&style=for-the-badge&url=https%3A%2F%2Flvh-tony.com" alt="website" /><a href="https://lvh-tony.com" target="blank">
-    <img src="https://img.shields.io/github/last-commit/lvh-tony/lvh-tony?style=for-the-badge" alt="commit" /></a>
-</p> 
+  <img src="https://img.shields.io/github/last-commit/lvh-tony/lvh-tony?style=for-the-badge" alt="commit" /></a>
+</p>
 
 <p align=center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jet+Brains&duration=4000&pause=500&center=true&vCenter=true&width=600&lines=Data+Science+%26+Machine+Learning+nerd;2%2B+years+of+Programming+experience;5%2B+years+of+Marketing+experience;MIT+alumni;Active+learner%2Fresearcher" alt="Typing SVG" /></a></p>
 
@@ -27,8 +25,8 @@ Data Scientist</a> from Vietnam 🇻🇳 and I am coming to Canada 🇨🇦 Soon
   <img align="right" top="0" height="200" width="200" alt="GIF" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif">
 </a>
 
-
 <!-- ABOUT ME - START -->
+
 - 🔭 I'm open for full-time opportunities in Data Science <a href="https://www.lvh-tony.com/_files/ugd/a9812d_3b29bfce3e664d6eb4dda898ad0d0fa3.pdf" target="blank">Resume</a>
 
 - 💼 I’m currently working on my new startup in Healthtech <a href="https://www.lvh-tony.com/post/i-am-creating-a-digital-platform-to-revolutionize-the-pharmacy-industry" target="blank">PharmApp Tech Inc.</a>
@@ -43,9 +41,6 @@ Data Scientist</a> from Vietnam 🇻🇳 and I am coming to Canada 🇨🇦 Soon
 
 - 📫 How to reach me [**tony.leviethung@gmail.com**](mailto:tony.leviethung@gmail.com)
 <!-- ABOUT ME - END -->
-
-
-
 
 <!-- QUOTE -->
 <p align="center"> <img src=https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_macchiato> </p>
@@ -125,7 +120,6 @@ Data Scientist</a> from Vietnam 🇻🇳 and I am coming to Canada 🇨🇦 Soon
   </a>
 </p>
 
-
 <!-- Divider -->
 <p align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt=" dash" />
@@ -169,10 +163,8 @@ Data Scientist</a> from Vietnam 🇻🇳 and I am coming to Canada 🇨🇦 Soon
 </div>
 <!--- trophy (start) -->
 
-
 </p>        
 <!--- stats (end) -->
-
 
 <p align="center">
   <a href="https://buymeacoffee.com/hungle">
