@@ -20,6 +20,7 @@ Data Scientist</a> from Vietnam 🇻🇳 and I am coming to Canada 🇨🇦 Soon
     <img src="https://img.shields.io/github/last-commit/lvh-tony/lvh-tony?style=for-the-badge" alt="commit" /></a>
 </p> 
 
+<p align=center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jet+Brains&duration=4000&pause=500&center=true&vCenter=true&width=600&lines=Data+Science+%26+Machine+Learning+nerd;2%2B+years+of+Programming+experience;5%2B+years+of+Marketing+experience;MIT+alumni;Active+learner%2Fresearcher" alt="Typing SVG" /></a></p>
 
 <!-- Neural Link -->
 <a target="_blank" align="center">
@@ -32,7 +33,7 @@ Data Scientist</a> from Vietnam 🇻🇳 and I am coming to Canada 🇨🇦 Soon
 
 - 💼 I’m currently working on my new startup in Healthtech <a href="https://www.lvh-tony.com/post/i-am-creating-a-digital-platform-to-revolutionize-the-pharmacy-industry" target="blank">PharmApp Tech Inc.</a>
 
-- 🤝 I’m available for freelancing. Free work for less demanding projects
+- 🤝 I’m available for freelancing. Free service for non-profit organizations
 
 - 🌱 I’m currently learning <a href="https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops" target="blank">MLOps</a>
 
@@ -42,6 +43,9 @@ Data Scientist</a> from Vietnam 🇻🇳 and I am coming to Canada 🇨🇦 Soon
 
 - 📫 How to reach me [**tony.leviethung@gmail.com**](mailto:tony.leviethung@gmail.com)
 <!-- ABOUT ME - END -->
+
+
+
 
 <!-- QUOTE -->
 <p align="center"> <img src=https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_macchiato> </p>
