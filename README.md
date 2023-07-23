@@ -26,23 +26,17 @@ Data Scientist</a> from Vietnam 🇻🇳 and I am coming to Canada 🇨🇦 Soon
 
 <!-- ABOUT ME - START -->
 
-- 🔭 I'm open for full-time opportunities in Data Science <a href="https://www.lvh-tony.com/_files/ugd/a9812d_3b29bfce3e664d6eb4dda898ad0d0fa3.pdf" target="blank">Resume</a>
+- 💼 I’m currently working on my new startup in Healthtech <a href="https://pharmapp-tech.com/" target="blank">PharmApp Tech Inc.</a>
 
-- 💼 I’m currently working on my new startup in Healthtech <a href="https://www.lvh-tony.com/post/i-am-creating-a-digital-platform-to-revolutionize-the-pharmacy-industry" target="blank">PharmApp Tech Inc.</a>
+- 📈 I'm currently working as an Analytics Engineer at <a href="https://joonsolutions.com/" target="blank">Joon Solutions</a>
 
 - 🤝 I’m available for freelancing. Free service for non-profit organizations
-
-- 🌱 I’m currently learning <a href="https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops" target="blank">MLOps</a>
-
-- 📝 I regularly write blogs on [my new website](https://lvh-tony.com)
-
-- 💬 Ask me about **Data Science, Machine Learning & Deep Learning**
 
 - 📫 How to reach me [**tony.leviethung@gmail.com**](mailto:tony.leviethung@gmail.com)
 <!-- ABOUT ME - END -->
 
 <!-- QUOTE -->
-<p align="center"> <img src=https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_macchiato> </p>
+<p> <img src=https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_macchiato> </p>
 
 <!-- SKILLS -->
 <h1 align="center"> <img src="gif/bar.gif" width=25> Skills & Technologies:</h1>
