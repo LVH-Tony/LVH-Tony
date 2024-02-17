@@ -17,7 +17,7 @@ AI Engineer</a> from Vietnam 🇻🇳 but based in Canada 🇨🇦</h3>
   <img src="https://img.shields.io/github/last-commit/lvh-tony/lvh-tony?style=for-the-badge" alt="commit" /></a>
 </p>
 
-<p align=center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jet+Brains&duration=4000&pause=500&center=true&vCenter=true&width=600&lines=Data+Science+%26+Machine+Learning+nerd;2%2B+years+of+Programming+experience;5%2B+years+of+Marketing+experience;MIT+alumni;Active+learner%2Fresearcher" alt="Typing SVG" /></a></p>
+<p align=center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jet+Brains&duration=4000&pause=500&center=true&vCenter=true&width=600&lines=AI+Engineer;CTO+%40+AIT+Protocol;CMO+%40+PharmApp+Tech+Inc.;Very+friendly+guy;Warhammer+40k+player" alt="Typing SVG" /></a></p>
 
 <!-- Neural Link -->
 <a target="_blank" align="center">
