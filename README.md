@@ -1,8 +1,8 @@
 <!-- INTRODUCTION -->
 <h1 align="center"><b>Hi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm <a href="https://www.lvh-tony.com/" target="blank">
-Hung Le</a> </h1>
+Hung Le (Tony)</a> </h1>
 <h3 align="center">A passionate <a href="https://lvh-tony.com">
-Data Scientist</a> from Vietnam 🇻🇳 and I am coming to Canada 🇨🇦 Soon!</h3>
+AI Engineer</a> from Vietnam 🇻🇳 but based in Canada 🇨🇦</h3>
 
 <!-- NEURAL NET GIF START -->
 <p align="center">
@@ -26,19 +26,20 @@ Data Scientist</a> from Vietnam 🇻🇳 and I am coming to Canada 🇨🇦 Soon
 
 <!-- ABOUT ME - START -->
 
-- 💼 I’m currently working on my new startup in Healthtech <a href="https://pharmapp-tech.com/" target="blank">PharmApp Tech Inc.</a>
+- 💼 I am the CTO of <a href="https://ait.tech/" target="blank">AIT Protocol</a> and on my side I am currently working on my new startup in Healthtech <a href="https://pharmapp-tech.com/" target="blank">PharmApp Tech Inc.</a>
 
-- 📈 I'm currently working as an Analytics Engineer at <a href="https://joonsolutions.com/" target="blank">Joon Solutions</a>
-
-- 🤝 I’m available for freelancing. Free service for non-profit organizations
+- 🎓 I am an MIT alumni in Data Science and Machine Learning. I am also certified Google Cloud Professional Data Engineer and Machine Learning Engineer, SnowPro, Certified Marketing expert.
 
 - 📫 How to reach me [**tony.leviethung@gmail.com**](mailto:tony.leviethung@gmail.com)
+
+
+- 📫 For business partnership inquiries with AIT Protocol please reach me through [**hung.le@aitprotocol.ai**](mailto:hung.le@aitprotocol.ai)
 <!-- ABOUT ME - END -->
 
 <!-- QUOTE -->
 <p> <img src=https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_macchiato> </p>
 
-<!-- SKILLS -->
+<!-- SKILLS
 <h1 align="center"> <img src="gif/bar.gif" width=25> Skills & Technologies:</h1>
 <h3 align="center">👨‍💻 Data Science:</h3>
 <p align="center">
@@ -88,8 +89,7 @@ Data Scientist</a> from Vietnam 🇻🇳 and I am coming to Canada 🇨🇦 Soon
     <img src=https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white>
     <img src=https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white>
   </a>
-</p>
-
+</p> -->
 </br>
 <h1 align="center"> <img src="gif/contact.gif" width=25> Get in touch with me:</h1>
 <p align="center">
