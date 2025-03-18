@@ -26,14 +26,12 @@ AI Engineer</a> from Vietnam 🇻🇳 based in Canada 🇨🇦</h3>
 
 <!-- ABOUT ME - START -->
 
-- 💼 I am the CTO of <a href="https://ait.tech/" target="blank">AIT Protocol</a> and on my side I am currently working on my new startup in Healthtech <a href="https://pharmapp-tech.com/" target="blank">PharmApp Tech Inc.</a>
+- 💼 I am currently working on my new startup in Healthtech <a href="https://pharmapp-tech.com/" target="blank">PharmApp Tech Inc.</a>
 
 - 🎓 I am an MIT alumni in Data Science and Machine Learning. I am also certified Google Cloud Professional Data Engineer and Machine Learning Engineer, SnowPro, Certified Marketing expert.
 
 - 📫 How to reach me [**tony.leviethung@gmail.com**](mailto:tony.leviethung@gmail.com)
 
-
-- 📫 For business partnership inquiries with AIT Protocol please reach me through [**hung.le@aitprotocol.ai**](mailto:hung.le@aitprotocol.ai)
 <!-- ABOUT ME - END -->
 
 <!-- QUOTE -->
