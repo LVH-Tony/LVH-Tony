@@ -3,7 +3,13 @@
 Hung Le (Tony)</a> </h1>
 <h3 align="center">from Vietnam 🇻🇳 based in Canada 🇨🇦</h3>
 
-<!-- NEURAL NET GIF START -->
+<!-- typing gif -->
+<p align=center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=0000&repeat=false&width=435&lines=Head+of+ML+%26+Data+Science+%40+Contango+LABS" alt="Typing SVG" /></a></p>
+
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt=" dash" />
+</p>
+<!-- NEURAL NET GIF START >
 <p align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt=" dash" />
     <img src="gif/mojo.gif" alt="neuralnetwork" />
@@ -11,13 +17,11 @@ Hung Le (Tony)</a> </h1>
 </p>
 <!-- NEURAL NET GIF END-->
 
-<!-- WEBSITE LAST COMMIT -->
+<!-- WEBSITE LAST COMMIT >
 <p align="center">
   <img src="https://img.shields.io/github/last-commit/lvh-tony/lvh-tony?style=for-the-badge" alt="commit" /></a>
 </p>
 
-<!-- typing gif -->
-<p align=center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=0000&repeat=false&width=435&lines=Head+of+ML+%26+Data+Science+%40+Contango+LABS" alt="Typing SVG" /></a></p>
 
 
 
@@ -28,11 +32,10 @@ Hung Le (Tony)</a> </h1>
 
 <!-- ABOUT ME - START -->
 
-- 💼 I am currently working on my new startup in Healthtech <a href="https://pharmapp-tech.com/" target="blank">PharmApp Tech Inc.</a>
-
-- 🎓 I am an MIT alumni in Data Science and Machine Learning. I am also certified Google Cloud Professional Data Engineer and Machine Learning Engineer, SnowPro, Certified Marketing expert.
-
-- 📫 How to reach me [**tony.leviethung@gmail.com**](mailto:tony.leviethung@gmail.com)
+- 📫 How to reach me:
+    - [**tony@contango.digital**](mailto:tony@contango.digital)
+    - Telegram: @LVHTony
+    - Discord: _tonyle
 
 <!-- ABOUT ME - END -->
 
@@ -90,7 +93,7 @@ Hung Le (Tony)</a> </h1>
     <img src=https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white>
   </a>
 </p> -->
-</br>
+<!--/br>
 <h1 align="center"> <img src="gif/contact.gif" width=25> Get in touch with me:</h1>
 <p align="center">
   <a href="https://facebook.com/lvh-tonyle">
@@ -120,13 +123,13 @@ Hung Le (Tony)</a> </h1>
 
 <!-- Contribution Snake Grid -->
 
-<h2 align = "center">Oh No! The <img src="gif/python.gif" alt="Python" width=20 /> is eating my contribution!</h2>
+<!--h2 align = "center">Oh No! The <img src="gif/python.gif" alt="Python" width=20 /> is eating my contribution!</h2>
 <p align="center">
     <img src="gif/grid-snake.svg" alt="python-grid"/>
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt=" dash" />
 </p>
 <br/>
-
+-->
 
 <p align="center">
   <a href="https://buymeacoffee.com/hungle">
