@@ -36,12 +36,15 @@ Hung Le (Tony)</a> </h1>
     - [**tony@contango.digital**](mailto:tony@contango.digital)
     - Telegram: @LVHTony
     - Discord: _tonyle
+> “Here we stand and here shall we die, unbroken and unbowed. Though the very hand of death itself come for us, we will spit our defiance to the end!”
+> 
+> *— Chaplain-Dreadnought Armand Titus during the last stand on Khymara Ellipsis, embodying the indomitable spirit of the Astartes.*
 
 <!-- ABOUT ME - END -->
 
 <!-- QUOTE -->
-<p> <img src=https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_macchiato> </p>
-
+<!--p> <img src=https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_macchiato> </p>
+""
 <!-- SKILLS
 <h1 align="center"> <img src="gif/bar.gif" width=25> Skills & Technologies:</h1>
 <h3 align="center">👨‍💻 Data Science:</h3>
