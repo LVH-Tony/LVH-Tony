@@ -1,8 +1,7 @@
 <!-- INTRODUCTION -->
 <h1 align="center"><b>Hi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm <a href="https://www.lvh-tony.com/" target="blank">
 Hung Le (Tony)</a> </h1>
-<h3 align="center">A passionate <a href="https://lvh-tony.com">
-AI Engineer</a> from Vietnam 🇻🇳 based in Canada 🇨🇦</h3>
+<h3 align="center">from Vietnam 🇻🇳 based in Canada 🇨🇦</h3>
 
 <!-- NEURAL NET GIF START -->
 <p align="center">
