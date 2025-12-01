@@ -4,7 +4,7 @@ Hung Le (Tony)</a> </h1>
 <h3 align="center">from Vietnam 🇻🇳 based in Canada 🇨🇦</h3>
 
 <!-- typing gif -->
-<p align=center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=0000&repeat=false&width=435&lines=Head+of+ML+%26+Data+Science+%40+Contango+LABS" alt="Typing SVG" /></a></p>
+<p align=center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=0000&repeat=false&width=435&lines=Head+of+AI+%26+Data+Science+%40+Contango+LABS" alt="Typing SVG" /></a></p>
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt=" dash" />
