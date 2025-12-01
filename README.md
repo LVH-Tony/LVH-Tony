@@ -134,8 +134,8 @@ Hung Le (Tony)</a> </h1>
 <br/>
 -->
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://buymeacoffee.com/hungle">
     <img src="gif/donate.gif" />
   </a>
-</p>
+</p> -->
