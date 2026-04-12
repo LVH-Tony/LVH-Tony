@@ -33,7 +33,7 @@ Hung Le (Tony)</a> </h1>
 <!-- ABOUT ME - START -->
 
 - 📫 How to reach me:
-    - [**tony@contango.digital**](mailto:tony@contango.digital)
+    - [**tony@generaltensor.io**](mailto:tony@generaltensor.io)
     - Telegram: @LVHTony
     - Discord: _tonyle
 > “Here we stand and here shall we die, unbroken and unbowed. Though the very hand of death itself come for us, we will spit our defiance to the end!”
